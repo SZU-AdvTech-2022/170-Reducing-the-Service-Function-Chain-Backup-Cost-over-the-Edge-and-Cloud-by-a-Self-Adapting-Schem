@@ -1,0 +1,10 @@
+@article{REPO-171,
+    author = "Shang, Xiaojun and Huang, Yaodong and Liu, Zhenhua and Yang, Yuanyuan",
+    journal = "IEEE Transactions on Mobile Computing",
+    number = "8",
+    pages = "2994--3008",
+    publisher = "IEEE",
+    title = "{Reducing the Service Function Chain Backup Cost Over the Edge and Cloud by a Self-Adapting Scheme}",
+    volume = "21",
+    year = "2021"
+}
