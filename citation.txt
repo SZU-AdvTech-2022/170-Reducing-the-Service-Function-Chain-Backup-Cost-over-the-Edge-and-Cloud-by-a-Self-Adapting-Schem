@@ -1,4 +1,4 @@
-@article{REPO-171,
+@article{REPO-170,
     author = "Shang, Xiaojun and Huang, Yaodong and Liu, Zhenhua and Yang, Yuanyuan",
     journal = "IEEE Transactions on Mobile Computing",
     number = "8",
